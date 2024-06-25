@@ -1,2 +1,3 @@
 Second session of git
 today we see parallel git case
+we are adding a new line
