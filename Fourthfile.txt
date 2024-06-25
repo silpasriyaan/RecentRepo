@@ -1,1 +1,2 @@
 Second session of git
+today we see parallel git case
